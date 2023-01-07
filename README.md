@@ -10,17 +10,15 @@
   - <a href="">Installing Github Desktop</a>
   - <a href="">Knowing the Github Layout</a>
 ### Main - ⚠️ Under development ⚠️
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
+  - <a href="">Commit</a>
+  - <a href="">Pull Request</a>
+  - <a href="">Push Request</a>
+  - <a href="">Fetch Origin</a>
+  - <a href="">Branch</a>
+  - <a href="">Merge</a>
+  - <a href="">Clone</a>
+  - <a href="">History</a>
 ### Good Practices and Standards - ⚠️ Under development ⚠️
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
+  - <a href="">Standardizing Commit</a>
 ### Conclusion - ⚠️ Under development ⚠️
   - <a href=""></a>
