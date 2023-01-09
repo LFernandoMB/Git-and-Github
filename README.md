@@ -21,4 +21,4 @@
 ### Good Practices and Standards - ⚠️ Under development ⚠️
   - <a href="">Standardizing Commit</a>
 ### Conclusion - ⚠️ Under development ⚠️
-  - <a href=""></a>
+  - <a href="">Conclusion</a>
